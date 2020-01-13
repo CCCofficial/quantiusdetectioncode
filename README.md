@@ -14,5 +14,5 @@ The annotation/9_gt_expert.csv has one expert's annotation for the entire datase
 
 ## Citation
 
-Hughes, Alex J., Joseph D. Mornin, Sujoy K. Biswas, Lauren E. Beck, David P. Bauer, Arjun Raj, Simone Bianco, and Zev J. Gartner. ["Quanti.us: a tool for rapid, flexible, crowd-based annotation of images"](https://www.nature.com/articles/s41592-018-0069-0/) Nature methods 15, no. 8 (2018): 587
+1. Hughes, Alex J., Joseph D. Mornin, Sujoy K. Biswas, Lauren E. Beck, David P. Bauer, Arjun Raj, Simone Bianco, and Zev J. Gartner. ["Quanti.us: a tool for rapid, flexible, crowd-based annotation of images"](https://www.nature.com/articles/s41592-018-0069-0/) Nature methods 15, no. 8 (2018): 587
 
