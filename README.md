@@ -1,5 +1,6 @@
 # Quanti.us (Detection Code)
 
+## Materials and Methods
 This repository contains the representative implementation of the Fully Convolutional Regression Network used for the detection task in [1]. Please note the following directory structure.
 
 |- code  
